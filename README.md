@@ -1,4 +1,7 @@
-# 使い方
+# なにこれ
+ゼロから作るDeep Learningの勉強用リポジトリ
+
+# dockerの使い方
 
 1. dokcerコンテナ起動
 ``` docker-compose up ```
