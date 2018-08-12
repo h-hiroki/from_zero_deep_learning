@@ -1,0 +1,9 @@
+version: '3'
+services:
+  anaconda:
+    build: .
+    volumes:
+      # 作業ボリュームは変更してね
+      - ./workspace:/workspace
+    ports:
+      - "8888:8888"
